@@ -56,8 +56,10 @@ function App() {
           <li><a href='/'><img src={Instagram} alt='instagram'></img></a></li>
           <li><a href='/'><img src={Linkedin} alt='linkedin'></img></a></li>
           <li><a href='/'><img src={Facebook} alt='facebook'></img></a></li>
-         
         </ul>
+        <div className='creator'>
+          <p>Done with React and Slipe3D</p>
+        </div>
       </div>
     </footer>
 
