@@ -52,7 +52,7 @@ function App() {
                 <div className="itemsContainer">
                     <div className="contents">
                         <h1>
-                            Let's build <span>something epic.</span>
+                            Let's build <span>something Aweseome.</span>
                         </h1>
                         <p>
                            Sample text.
